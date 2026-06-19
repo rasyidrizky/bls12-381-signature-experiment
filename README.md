@@ -40,14 +40,12 @@ To run this simulation, you must have the following installed:
 * **utils.js** - Helper functions including the real-time terminal progress tracker and hex-to-byte converters.
 
 ## Author
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
-      <img src="./avatar.png" alt="Profile" width="120" style="border-radius: 8px;" />
-      <br /><br />
-      <a href="https://github.com/rasyidrizky" style="font-size: 18px; font-weight: bold; text-decoration: none;">Rasyid Rizky Susilo N.</a>
-      <br />
-      <a href="https://github.com/rasyidrizky" style="font-size: 16px; text-decoration: none;">18223114</a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td align="center" valign="top" width="14.28%"><a href="https://github.com/rasyidrizky"><img src="https://avatars.githubusercontent.com/u/188223327?v=4?s=100" width="100px;" alt="Rasyid Rizky Susilo N."/><br /><sub><b>Rasyid Rizky Susilo N.</b></sub><br /><sub><b>18223114</b></sub></a><br />   </td>
+      </tr>
+    </tbody>
+  </table>
+</p>
